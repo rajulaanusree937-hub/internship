@@ -18,6 +18,3 @@ https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024
 - Delay analysis
 - Airline performance insights
 - Scalable processing using PySpark
-
-## Project Summary
-This task was completed as part of the internship and focuses on large-scale flight delay analysis using distributed data processing.
